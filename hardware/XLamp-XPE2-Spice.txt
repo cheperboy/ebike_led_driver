@@ -1,0 +1,39 @@
+* Cree XLAMP XP-E2 White LED
+* Model valid for 100mA to 1000mA
+.MODEL XPEB WHT D
++ IS=5.01824E-16
++ N=3.36413016
++ RS=0.244130334
++ XTI=40.92995615
++ IKF=0
++ EG=2.5000
+
+* Cree XLAMP XP-E2 Blue, Royal BLue LED
+* Model valid for 100mA to 1000mA
+.MODEL XPEB BLRB D
++ IS=9.0628e-010
++ N=5.9196
++ RS=0.20196
++ XTI=53.34286
++ IKF=0
++ EG=2.5000
+
+* Cree XLAMP XP-E2 Red, Red-Orange, Amber LED
+* Model valid for 100mA to 1000mA
+.MODEL XPEB RDRDOAMB D
++ IS=6.7935e-016
++ N=2.2823
++ RS=0.57268
++ XTI=15.38565
++ IKF=0
++ EG=2.1000
+
+* Cree XLAMP XP-E2 Green LED
+* Model valid for 100mA to 1000mA
+.MODEL XPEB GRN D
++ IS=6.5777e-006
++ N=11.006
++ RS=0.29235
++ XTI=61.09844
++ IKF=0
++ EG=2.5000
